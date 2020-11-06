@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346907116553",
+    "firebase_url": "https://todos-getx.firebaseio.com",
+    "project_id": "todos-getx",
+    "storage_bucket": "todos-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346907116553:android:318ba5d70c1160347124d8",
+        "android_client_info": {
+          "package_name": "com.kaungsanhein.todos_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346907116553-hquo88nfhbfa49aa82jab52n4cce9bkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3tT2e4obuL6TqwMCQ-6jZwC_R52sklg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346907116553-hquo88nfhbfa49aa82jab52n4cce9bkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
